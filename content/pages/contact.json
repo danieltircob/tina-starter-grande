@@ -4,8 +4,23 @@
   "blocks": [
     {
       "_template": "TitleBlock",
-      "title": "聯繫我們",
+      "title": "页 付款方式与客服",
       "underline": true,
+      "content": ""
+    },
+    {
+      "content": "\n页 付款方式与客服\n\n课程价格：199RMB\n\n更多优惠价格请联系客服人员\n\n ",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "image": "../images/",
+      "_template": "ImageBlock",
+      "content": ""
+    },
+    {
+      "image": "../images/",
+      "_template": "ImageBlock",
       "content": ""
     },
     {
