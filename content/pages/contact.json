@@ -4,7 +4,7 @@
   "blocks": [
     {
       "_template": "TitleBlock",
-      "title": "",
+      "title": "聯繫我們",
       "underline": true,
       "content": ""
     },
@@ -13,7 +13,7 @@
       "name": "Contact Form",
       "fields": [
         {
-          "label": "Name",
+          "label": "姓",
           "inputType": "text",
           "autocomplete": "name",
           "_template": "nameInputBlock"
