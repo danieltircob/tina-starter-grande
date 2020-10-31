@@ -1,0 +1,22 @@
+{
+  "title": "页 课程介绍",
+  "path": "/course-introduction",
+  "hero": {
+    "headline": "",
+    "large": false
+  },
+  "blocks": [
+    {
+      "title": "页 课程介绍 ",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "德语课程针对学员的不同能力与需求，设计适合每个学员的德语培训课程。本课程带你学习德语的发音规则，帮你纠正语音语调。课上老师不仅会详细的讲解规则，还会分享把德语说得自然流利的方法。\n\n18天口语训练营\n\n9天线上直播：每天1小时\n\n9天线下微信群作业打卡：语音作业和纠音辅导",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}
