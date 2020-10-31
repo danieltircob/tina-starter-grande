@@ -2,7 +2,7 @@
   "path": "/",
   "blocks": [
     {
-      "image": "../images/test.jpg",
+      "image": "../images/",
       "_template": "ImageBlock",
       "content": ""
     },
@@ -22,7 +22,7 @@
         "primary": false
       }
     ],
-    "image": "../images/[object Object]",
+    "image": "../images/",
     "large": true
   },
   "displayTitle": false,
