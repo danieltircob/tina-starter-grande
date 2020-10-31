@@ -6,6 +6,7 @@ import { transparentize } from "polished"
 import { Nav } from "./nav"
 import { ThemeContext } from "./theme"
 import { Link } from "gatsby"
+import icon from '../../content/images/icon.png'
 
 export const Header = styled(({ siteTitle, ...styleProps }) => {
   return (
@@ -15,8 +16,9 @@ export const Header = styled(({ siteTitle, ...styleProps }) => {
           <HeaderWrapper>
             <SiteTitle>
               <SiteLink to="/">
-                <Coffee />
-                {siteTitle}
+                <SiteLogo>
+                <img src={icon} alt="logo" />
+                </SiteLogo>
               </SiteLink>
             </SiteTitle>
             <Nav toggleDarkMode={toggleDarkMode} isDarkMode={isDarkMode} />
@@ -54,6 +56,14 @@ export const Header = styled(({ siteTitle, ...styleProps }) => {
         transparentize(0.9, props.theme.color.black)};
       color: ${props => props.theme.color.white};
     `};
+`
+
+export const SiteLogo = styled(Link)`
+  max-width: 200px;
+  img {
+    width: 100%;
+    margin-top: 62px;
+  }
 `
 
 export const SiteLink = styled(Link)`
