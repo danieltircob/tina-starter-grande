@@ -19,9 +19,19 @@
       "content": ""
     },
     {
+      "content": "<br />",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
       "image": "../images/service-wechat-code.jpg",
       "_template": "ImageBlock",
       "content": ""
+    },
+    {
+      "content": "<br />",
+      "center": false,
+      "_template": "ContentBlock"
     },
     {
       "_template": "FormBlock",
