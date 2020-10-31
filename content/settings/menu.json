@@ -1,12 +1,12 @@
 {
   "menuItems": [
     {
-      "label": "课程",
-      "link": "/courses"
-    },
-    {
       "label": "家",
       "link": "/"
+    },
+    {
+      "label": "课程",
+      "link": "/courses"
     },
     {
       "label": "聯繫我們",
