@@ -1,6 +1,10 @@
 {
   "menuItems": [
     {
+      "label": "课程",
+      "link": "/courses"
+    },
+    {
       "label": "家",
       "link": "/"
     },
