@@ -2,7 +2,7 @@
   "path": "/",
   "blocks": [
     {
-      "image": "../images/[object Object]",
+      "image": "../images/",
       "_template": "ImageBlock",
       "content": ""
     },
