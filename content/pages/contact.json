@@ -19,13 +19,13 @@
           "_template": "nameInputBlock"
         },
         {
-          "label": "Email",
+          "label": "電子郵件",
           "inputType": "text",
           "autocomplete": "email",
           "_template": "emailInputBlock"
         },
         {
-          "label": "Message",
+          "label": "信息",
           "inputType": "textarea",
           "autocomplete": "",
           "_template": "messageInputBlock"
