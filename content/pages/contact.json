@@ -14,12 +14,12 @@
       "_template": "ContentBlock"
     },
     {
-      "image": "../images/",
+      "image": "../images/wechat-code.jpg",
       "_template": "ImageBlock",
       "content": ""
     },
     {
-      "image": "../images/",
+      "image": "../images/service-wechat-code.jpg",
       "_template": "ImageBlock",
       "content": ""
     },
