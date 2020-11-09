@@ -32,32 +32,6 @@
       "content": "<br />",
       "center": false,
       "_template": "ContentBlock"
-    },
-    {
-      "_template": "FormBlock",
-      "name": "Contact Form",
-      "fields": [
-        {
-          "label": "姓",
-          "inputType": "text",
-          "autocomplete": "name",
-          "_template": "nameInputBlock"
-        },
-        {
-          "label": "電子郵件",
-          "inputType": "text",
-          "autocomplete": "email",
-          "_template": "emailInputBlock"
-        },
-        {
-          "label": "信息",
-          "inputType": "textarea",
-          "autocomplete": "",
-          "_template": "messageInputBlock"
-        }
-      ],
-      "content": "",
-      "recipient": "d.tircob95@gmail.com"
     }
   ],
   "displayTitle": true
