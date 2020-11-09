@@ -4,12 +4,12 @@
   "blocks": [
     {
       "_template": "TitleBlock",
-      "title": "页 付款方式与客服",
+      "title": "付款方式与客服",
       "underline": true,
       "content": ""
     },
     {
-      "content": "页 付款方式与客服\n\n课程价格：199RMB\n\n更多优惠价格请联系客服人员\n\n<br />",
+      "content": "课程价格：199RMB\n\n更多优惠价格请联系客服人员\n\n<br />",
       "center": false,
       "_template": "ContentBlock"
     },
