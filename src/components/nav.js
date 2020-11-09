@@ -56,7 +56,7 @@ export const StyledNavbar = styled.ul`
   color: inherit;
   @media (max-width: ${props => props.theme.breakpoints.small}) {
     position: absolute;
-    bottom: 0;
+    bottom: -55px;
     left: 0;
     transform: translate3d(0, 100%, 0);
     width: 100%;
@@ -345,8 +345,8 @@ export const NavLink = styled(({ children, ...styleProps }) => (
 export const NavToggle = styled(({ menuOpen, ...styleProps }) => {
   return (
     <button {...styleProps}>
-      <span className="closed">Open Menu</span>
-      <span className="open">Close Menu</span>
+      <span className="closed">打开菜单</span>
+      <span className="open">关闭菜单</span>
     </button>
   )
 })`

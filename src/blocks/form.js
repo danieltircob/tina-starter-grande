@@ -42,7 +42,7 @@ export function Form({ form }) {
       {form.fields.length > 0 && (
         <FormField wide>
           <Button primary type="submit" value="Submit">
-            Submit
+            上传
           </Button>
         </FormField>
       )}
